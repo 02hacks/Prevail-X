@@ -1,3 +1,7 @@
++ v2.32
+~ Bug fixes
+~ Enabled Silent Cmd
+
 + v2.31/AE-Update 02/11/2023
 ~ Updated functions w loadchar (loadchar replaced by TeamEvent, cant fire crim thru TE)
 ~ Updated Respawnv2 (disabled on Criminal)
