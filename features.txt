@@ -19,6 +19,7 @@
 - Anti Taze
 - Anti Arrest
 - RapidFire Equipped
+- Teleport Aura (Kill All)
 - KillAura All
 - KillAura <Player>
 - KillAura Teams
@@ -27,6 +28,9 @@
 - M4A1
 - AK47
 - M9
+- Crude Knife
+- Hammer
+- Riot Sheild
 - Remington 870
 - DED (Kill All)
 - DED <Player> (s0nicsc0pe)
