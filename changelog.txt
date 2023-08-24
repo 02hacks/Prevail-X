@@ -1,4 +1,4 @@
-~ v2.33
+~ v2.33 [08.08.23]
 + Added StaminaMsg to Solo KillAura (?aura <plr>)
 + Added item chat cmds (?riot, ?hammer, ?crude, See Help tab)
 + Updated DED (Kill All) (SEF, DEDF)
@@ -10,11 +10,11 @@
 + Disabled Silent Command, as it seems to break things.
 + Removed ?Wild
 
-+ v2.32
++ v2.32 [03.11.23]
 ~ Bug fixes
 ~ Enabled Silent Cmd
 
-+ v2.31/AE-Update 02/11/2023
++ v2.31/AE-Update 02/11/2023 [02.26.23]
 ~ Updated functions w loadchar (loadchar replaced by TeamEvent, cant fire crim thru TE)
 ~ Updated Respawnv2 (disabled on Criminal)
 ~ Updated ReturnTM (9th Knight PATCHED, Neutral/2ND Neutral PATCHED)
@@ -32,20 +32,20 @@
 ~ Removed Bring, Criminal <Player>
 ~ Disabled Silent Cmd (will return next update)
 
-+ v2.30 Final
++ v2.30 Final [09.07.22]
 ~ Fixed Inf Stamina
 
 + v2.30
 ~ FEFF Release, toggle is key G
 ~ Cleaned up various pieces of code
 
-+ v2.29
++ v2.29 [04.29.22]
 ~ Prevail is now open src, the skids will come like vultures.
 ~ Classic noclip replaced, touchclip Release
 ~ Removed Veto
 ~ Removed forced update system
 
-+ v2.28 Final
++ v2.28 Final [07.27.21]
 ~ Unpatched Taze All
 ~ Fixed theming on Gun Mods frame
 
@@ -54,13 +54,13 @@
 ~ Added DisplayName support to GetPlayer function
 ~ FriendService changed to v2.00
 
-+ v2.27
++ v2.27 [07.22.21]
 ~ Added DED (Kill All)
 ~ Removed Rain, Wipe(Car)
 ~ Replaced GetCar with old method
 ~ Internal changes to Setups in Topbar and Criminalv2
 
-+ v2.26
++ v2.26 [02.18.21]
 ~ Added Auto-Reload Toggle
 ~ Fixed KillAura not AutoUpdating during cycles
 ~ Removed StreamSpoofer, support discontinued https://github.com/scam666/StreamSpoofer/blob/main/Source.lua
@@ -69,7 +69,7 @@
 ~ Removed DED Teams (.I, .G, .N, .C)
 ~ Removed Inf Ammo, ReloadTime from RapidFire
 
-+ v2.25
++ v2.25 [12.22.20]
 ~ Theming Updates for GunFrame, and tooltip Frames
 ~ Silent Command [Beta] Toggle
 ~ Added new error messages for trashy exploits
@@ -83,13 +83,13 @@
 ~ Fixed/Updated FriendService to v3.47
 ~ Fixed Network for GetCar and RainCar functions
 
-+ v2.24
++ v2.24 [09.09.20]
 ~ StreamSpoofer Updated (not fully done)
 ~ Added Anti-Taze toggle
 ~ Added Anti-Arrest toggle
 ~ RainCar, WipeCar and GetCar are back
 
-+ v2.23 (s0nicsc0peL Update)
++ v2.23 (s0nicsc0peL Update) [07.13.20]
 ~ Added WipeCar [Beta]
 ~ Added waits for slower and smoother loading
 ~ Added Solo KillAura, See Help Tab
@@ -116,13 +116,13 @@
 ~ Disabled manually activation of Respawnv2 while AutoRespawn is enabled, idk why i didnt do this before now
 ~ wild command isnt removed, but hidden from now on
 
-+ v2.22b (Mid-Update)
++ v2.22b (Mid-Update) [06.26.20]
 ~ Fixed SimulationRadius, that is used in Car and RainCar
 ~ Removed ugly ass borders, rethemed the welcome menu
 ~ Fixed/Unpatched FriendService now v3.45, also updated so PlayerList now appears normal
 ~ Fixed StreamSpoofer, No longer supports Esc/Settings Frame
 
-+ v2.22
++ v2.22 [06.21.20]
 ~ FriendService v3.40 Release, Pray that this doesn't get patched in a week
 ~ Fixed/Updated StreamSpoofer
 ~ Re-designed Main Tab, Help Tab, and UI Themes and color schemes
@@ -132,7 +132,7 @@
 ~ Fixed s0nicsc0pe not killing Neutral Team
 ~ Fixed StaminaMsg function for displaying infomation, and added a typing simulator
 
-+ v2.21 Final
++ v2.21 Final [04.25.20]
 ~ Fixed/Updated FriendService to v3.30, FUCK YOU ROBLOX DEVS
 ~ Fixed Sped Car error when car falls off map
 ~ Added a messagebox that uses the "not enough stamina" Frame and Textlabel to display infomation
@@ -149,28 +149,28 @@
 ~ Bring/Criminal Patched, plan to fix soon
 ~ Removed Rainbow/RGB Colors from UI and game, Added Theme instead
 
-+ v2.20
++ v2.20 [04.18.20]
 ~ Fixed MapFuck (Now v2)
 ~ Fixed Inf Stamina
 
-+ v2.19
++ v2.19 [03.19.20]
 ~ Updated TazeAura to keep you on Guard after running, It checks if you have a Taser and are a Guard so it will no longing respawn you.
 ~ 1Punch v2.00 Release. https://gyazo.com/584f9741890d3e3cfec76c86e0cc14a9
 ~ Added special credits after Prevail X loads, Thank you Herman, Exo, and General. http://prntscr.com/rj8m2m
 
-+ v2.18 Final
++ v2.18 Final [02.03.20]
 ~ Fixed 02MapFuck
 
 + v2.18
 ~ FriendService Updated
 ~ Auto Respawn Updated
 
-+ v2.17
++ v2.17 [01.14.20]
 ~ RapidFire Fixed
 ~ Added back ?DED /G (Guards) and ?DED /C (Criminals) Your Welcome
 ~ RapidFire Equipped (Press E) will now RapidFire a taser (regular rapidfire already had this)
 
-+ v2.16 Final
++ v2.16 Final [12.25.19]
 ~ Fixed Teleports, sorry
 
 + v2.16
@@ -182,3 +182,9 @@
 ~ Replaced 'iBtools' with 'Uzi'
 ~ Updated 02MapFuck (Internal change)
 ~ Updated RapidFire (Internal change)
+
++ v2.06-2.15
+~ Lost changelog
+
++ v2.05 [06.02.19]
+~ Prevail public release
