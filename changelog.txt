@@ -1,14 +1,14 @@
-~ v2.33 [08.08.23]
-+ Added StaminaMsg to Solo KillAura (?aura <plr>)
-+ Added item chat cmds (?riot, ?hammer, ?crude, See Help tab)
-+ Updated DED (Kill All) (SEF, DEDF)
-+ Updated TPAura, the OG Kill All rises from the ashes. (?TPAura, See Help tab)
-+ Updated 1Punch, damage increased from 100 to 150.
-+ Fixed sitting with ItH requests
-+ Fixed a bug with Sped Car (FindVeh)
-+ Minor changes with Respawnv2 and StaminaMsg
-+ Disabled Silent Command, as it seems to break things.
-+ Removed ?Wild
++ v2.33 [08.08.23]
+~ Added StaminaMsg to Solo KillAura (?aura <plr>)
+~ Added item chat cmds (?riot, ?hammer, ?crude, See Help tab)
+~ Updated DED (Kill All) (SEF, DEDF)
+~ Updated TPAura, the OG Kill All rises from the ashes. (?TPAura, See Help tab)
+~ Updated 1Punch, damage increased from 100 to 150.
+~ Fixed sitting with ItH requests
+~ Fixed a bug with Sped Car (FindVeh)
+~ Minor changes with Respawnv2 and StaminaMsg
+~ Disabled Silent Command, as it seems to break things.
+~ Removed ?Wild
 
 + v2.32 [03.11.23]
 ~ Bug fixes
